@@ -13,7 +13,7 @@ A
 \xleftrightarrow{k_2=1 \ k_{-2}=1}
 B
 \xrightarrow{k_4=0.1}
-\\
+\newline
 \qquad \qquad \quad \updownarrow _{k_3=10\ k_{-3}=12}
 \\
 \qquad \qquad \quad C
