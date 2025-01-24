@@ -8,7 +8,9 @@ layout: default
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       window.MathJax = {
+        loader: { load: ['[tex]/mathtools'] },
         tex: {
+          packages: { '[+]': ['mathtools'] },
           inlineMath: [['$', '$'], ['\\(', '\\)']]
         }
       };
