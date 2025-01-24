@@ -18,7 +18,7 @@ $$
 $$B \xleftrightarrow{k_3=10\ k_{-3}=12}C$$
 
 
-where, reactions are modelled with mass action, rate constants $k_{positive}$ are for forward reactions and $k_{negative}$ are for reverse reactions. Assume all starting concentrations of our species is 1 mM/L.
+where, reactions are modelled with mass action, rate constants \\(k_{positive}\\) are for forward reactions and $k_{negative}$ are for reverse reactions. Assume all starting concentrations of our species is 1 mM/L.
 
 The time course results in copasi will be like:
 ![image of the time course]({{ site.baseurl }}/images/time_course.png)
