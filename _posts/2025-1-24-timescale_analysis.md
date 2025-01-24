@@ -12,11 +12,7 @@ $$
 A
 \xleftrightarrow{k_2=1 \ k_{-2}=1}
 B
-\xrightarrow{k_4=0.1}
-\newline
-\qquad \qquad \qquad \qquad \qquad \updownarrow _{k_3=10\ k_{-3}=12}
-\newline
-\qquad \qquad \quad \ \ C
+\xrightarrow{k_4=0.1}\\\qquad \qquad \qquad \qquad \qquad \updownarrow _{k_3=10\ k_{-3}=12}\\\qquad \qquad \quad \ \ C
 $$
 
 where, reactions are modelled with mass action, rate constants $k_{positive}$ are for forward reactions and $k_{negative}$ are for reverse reactions. Assume all starting concentrations of our species is 1 mM/L.
